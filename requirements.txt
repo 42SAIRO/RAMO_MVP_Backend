@@ -1,0 +1,12 @@
+﻿fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart>=0.0.9,<1  
+sqlalchemy>=2.0.0,<3
+psycopg[binary]>=3.2.0,<4
+langchain>=0.3.0,<1         
+langchain-openai>=0.2.0,<1  
+openai>=1.0.0,<2
+tiktoken>=0.7.0,<1
+python-dotenv>=1.0.0,<2
+pypdf>=4.0.0,<5
+python-docx>=1.1.0,<2
